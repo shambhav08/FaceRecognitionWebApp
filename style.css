@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0%;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+.label_div
+{
+    margin-bottom: 15px;
+}
+
+canvas
+{
+    border: 5px solid black;
+}
